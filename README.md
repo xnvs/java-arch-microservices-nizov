@@ -237,3 +237,5 @@
     - Control loop
     - Centralized monitoring and alarms
     - так далее
+
+© 2026 Vladimir Nizov. All rights reserved. See the COPYRIGHT file for details.
