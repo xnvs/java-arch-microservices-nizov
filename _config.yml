@@ -1,0 +1,9 @@
+theme: jekyll-theme-slate
+title: Микросервисная архитектура на Java. Современный подход.
+author: Владимир Низов
+description: Практическое руководство по архитектуре и кодированию микросервисных приложений на Java.
+
+url: "https://xnvs.github.io"
+baseurl: "/java-arch-microservices-nizov"
+plugins:
+  - jekyll-sitemap
